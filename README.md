@@ -7,7 +7,7 @@
 <body>
 <h1>The REAL Centre</h1>
 <h2>The REAL Centre's beta version GitHub setup</h2>
-<p>Add a description of who we are here </p>
+<p>The Health Foundation’s REAL Centre (Research and Economic Analysis for the Long term) provides independent analysis and research to support better long-term decision making in health and social care. Its aim is to help health and social care leaders and policymakers look beyond the short term to understand the implications of their funding and resourcing decisions over the next 10-15 years. The Centre will work in partnership with leading experts and academics to research and model the future demand for care, and the workforce and other resources needed to respond. The Centre supports the Health Foundation's aim to create a more sustainable health and care system that better meets people’s needs now and in the future.</p>
 <img align="right" width="400" height="400" src="/images/Circle.jpg">
 </body>
 </html>
