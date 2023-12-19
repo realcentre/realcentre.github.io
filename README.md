@@ -8,7 +8,7 @@
 <h1>The REAL Centre</h1>
 <h2>The REAL Centre's beta version GitHub setup</h2>
 <p>Add a description of who we are here </p>
-<img align="right" width="400" height="400" src="/images/excellent.jpg">
+<img align="right" width="400" height="400" src="/images/Circle.jpg">
 </body>
 </html>
 
