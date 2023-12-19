@@ -21,3 +21,9 @@
 * person B - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/username)
 * person C - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/username)
 * person D - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/username)
+
+<html>
+<body>
+<p>Add further stuff here </p>
+</body>
+</html>
